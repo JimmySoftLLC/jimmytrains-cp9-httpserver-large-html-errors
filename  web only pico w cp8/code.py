@@ -25,20 +25,12 @@
 import gc
 import files
 import time
-import sdcardio
-import storage
-import busio
-import digitalio
-import board
-import rtc
 import microcontroller
-import neopixel
-from adafruit_debouncer import Debouncer
 import asyncio
 
 
 def gc_col(c_p):
-    gc.collect()
+    #gc.collect()
     start_mem = gc.mem_free()
     files.log_item("Point " + c_p +
                    " Available memory: {} bytes".format(start_mem))
@@ -51,42 +43,17 @@ def rst():
 
 gc_col("Imports gc, files")
 
-################################################################################
-# Setup the switches
-l_sw = digitalio.DigitalInOut(board.GP6)
-l_sw.direction = digitalio.Direction.INPUT
-l_sw.pull = digitalio.Pull.UP
-l_sw = Debouncer(l_sw)
-
-r_sw = digitalio.DigitalInOut(board.GP7)
-r_sw.direction = digitalio.Direction.INPUT
-r_sw.pull = digitalio.Pull.UP
-r_sw = Debouncer(r_sw)
-
-# Setup sdCard
-sck = board.GP2
-si = board.GP3
-so = board.GP4
-cs = board.GP5
-spi = busio.SPI(sck, si, so)
-
-sd = sdcardio.SDCard(spi, cs)
-vfs = storage.VfsFat(sd)
-storage.mount(vfs, "/sd")
-
-# Setup time
-r = rtc.RTC()
-r.datetime = time.struct_time((2019, 5, 29, 15, 14, 15, 0, -1, -1))
+sd_loc = "sim_sd/"
 
 ################################################################################
 # Sd card data Variables
 
-cfg = files.read_json_file("/sd/cfg.json")
+cfg = files.read_json_file(sd_loc + "cfg.json")
 
-snd_o = files.return_directory("", "/sd/snd", ".wav")
+snd_o = files.return_directory("", sd_loc + "snd", ".wav")
 
 cus_o = files.return_directory(
-    "customers_owned_music_", "/sd/customers_owned_music", ".wav")
+    "customers_owned_music_", sd_loc + "customers_owned_music", ".wav")
 
 all_o = []
 all_o.extend(snd_o)
@@ -99,29 +66,9 @@ mnu_o.extend(rnd_o)
 mnu_o.extend(cus_o)
 
 ts_json = files.return_directory(
-    "", "/sd/t_s_def", ".json")
+    "", sd_loc + "t_s_def", ".json")
 
 web = cfg["serve_webpage"]
-
-c_m = files.read_json_file("/sd/mvc/main_menu.json")
-m_mnu = c_m["main_menu"]
-
-c_w = files.read_json_file("/sd/mvc/web_menu.json")
-w_mnu = c_w["web_menu"]
-
-c_l = files.read_json_file(
-    "/sd/mvc/light_string_menu.json")
-l_mnu = c_l["light_string_menu"]
-
-c_l_o = files.read_json_file("/sd/mvc/light_options.json")
-l_opt = c_l_o["light_options"]
-
-c_v = files.read_json_file("/sd/mvc/volume_settings.json")
-v_s = c_v["volume_settings"]
-
-c_a_s = files.read_json_file(
-    "/sd/mvc/add_sounds_animate.json")
-a_s = c_a_s["add_sounds_animate"]
 
 c_run = False
 ts_mode = False
@@ -130,98 +77,8 @@ local_ip = ""
 
 ovrde_sw_st = {}
 ovrde_sw_st["switch_value"] = ""
-exit_set_hdw_async = False
 
 gc_col("config setup")
-
-################################################################################
-# Setup neo pixels
-
-bars = []
-nbolts = []
-
-bar_arr = []
-nbolt_arr = []
-
-n_px = 2
-neo_pin = board.GP10
-led = neopixel.NeoPixel(neo_pin, n_px)
-
-
-def bld_bar():
-    i = []
-    for b in bars:
-        for l in b:
-            si = l
-            break
-        for l in range(0, 10):
-            i.append(l+si)
-    return i
-
-def bld_nbolt():
-    i = []
-    for b in nbolts:
-        for l in b:
-            si = l
-            break
-        for l in range(0, len(b)):
-            i.append(l+si)
-    return i
-
-def l_tst():
-    global bar_arr # bolt_arr
-    bar_arr = bld_bar()
-    # bolt_arr = bld_bolt()
-    for b in bars:
-        for l in b:
-            led[l] = (50, 50, 50)
-        led.show()
-        time.sleep(.3)
-        led.fill((0, 0, 0))
-        led.show()
-    for b in nbolts:
-        for l in b:
-            led[l] = (50, 50, 50)
-        led.show()
-        time.sleep(.3)
-        led.fill((0, 0, 0))
-        led.show()
-
-
-def upd_l_str():
-    global bars,  n_px, led, nbolts
-    bars = []
-    nbolts = []
-
-    n_px = 0
-
-    els = cfg["light_string"].split(',')
-
-    for el in els:
-        p = el.split('-')
-        if len(p) == 2:
-            typ, qty = p
-            qty = int(qty)
-            if typ == 'bar':
-                s = list(range(n_px, n_px + qty))
-                bars.append(s)
-                n_px += qty
-            elif typ == 'nbolt':
-                s = list(range(n_px, n_px + qty))
-                nbolts.append(s)
-                n_px += qty
-
-    led.deinit()
-    gc_col("Deinit ledStrip")
-    led = neopixel.NeoPixel(neo_pin, n_px)
-    led.auto_write = False
-    led.brightness = 1.0
-    l_tst()
-
-
-upd_l_str()
-
-gc_col("Neopixels setup")
 
 ################################################################################
 # Setup wifi and web server
@@ -242,7 +99,7 @@ if (web):
     PASS = ""
 
     try:
-        env = files.read_json_file("/sd/env.json")
+        env = files.read_json_file(sd_loc + "env.json")
         SSID = env["WIFI_SSID"]
         PASS = env["WIFI_PASSWORD"]
         gc_col("wifi env")
@@ -283,19 +140,18 @@ if (web):
 
         @server.route("/mui.min.css")
         def base(req: HTTPRequest):
-            return FileResponse(req, "/sd/mui.min.css", "/")
+            return FileResponse(req, sd_loc + "mui.min.css", "/")
 
         @server.route("/mui.min.js")
         def base(req: HTTPRequest):
-            return FileResponse(req, "/sd/mui.min.js", "/")
+            return FileResponse(req, sd_loc + "mui.min.js", "/")
 
         @server.route("/animation", [POST])
         def btn(req: Request):
             global cfg, c_run, ts_mode
             rq_d = req.json()
             cfg["option_selected"] = rq_d["an"]
-            add_cmd(cfg["option_selected"])
-            files.write_json_file("/sd/cfg.json", cfg)
+            files.write_json_file(sd_loc + "cfg.json", cfg)
             return Response(req, "Animation " + cfg["option_selected"] + " started.")
 
         @server.route("/defaults", [POST])
@@ -305,18 +161,18 @@ if (web):
             if rq_d["an"] == "reset_animation_timing_to_defaults":
                 for ts_fn in ts_json:
                     ts = files.read_json_file(
-                        "/sd/t_s_def/" + ts_fn + ".json")
+                        sd_loc + "t_s_def/" + ts_fn + ".json")
                     files.write_json_file(
-                        "/sd/snd/"+ts_fn+".json", ts)
+                        sd_loc + "snd/"+ts_fn+".json", ts)
             elif rq_d["an"] == "reset_to_defaults":
-                files.write_json_file("/sd/cfg.json", cfg)
+                files.write_json_file(sd_loc + "cfg.json", cfg)
             elif rq_d["an"] == "reset_incandescent_colors":
-                files.write_json_file("/sd/cfg.json", cfg)
+                files.write_json_file(sd_loc + "cfg.json", cfg)
                 s = files.json_stringify(
                     {"bars": cfg["bars"], "bolts": cfg["bolts"], "v": cfg["v"]})
                 return Response(req, s)
             elif rq_d["an"] == "reset_white_colors":
-                files.write_json_file("/sd/cfg.json", cfg)
+                files.write_json_file(sd_loc + "cfg.json", cfg)
                 s = files.json_stringify(
                     {"bars": cfg["bars"], "bolts": cfg["bolts"], "v": cfg["v"]})
                 return Response(req, s)
@@ -350,39 +206,28 @@ if (web):
             rq_d = req.json()
             if rq_d["an"] == "volume_pot_off":
                 cfg["volume_pot"] = False
-                files.write_json_file("/sd/cfg.json", cfg)
+                files.write_json_file(sd_loc + "cfg.json", cfg)
             elif rq_d["an"] == "volume_pot_on":
                 cfg["volume_pot"] = True
-                files.write_json_file("/sd/cfg.json", cfg)
+                files.write_json_file(sd_loc + "cfg.json", cfg)
             return Response(req, "Utility: " + rq_d["an"])
 
         @server.route("/lights", [POST])
         def btn(req: Request):
             rq_d = req.json()
-            v = rq_d["an"].split(",")
-            led.fill((float(v[0]), float(v[1]), float(v[2])))
-            led.show()
             return Response(req, "OK")
 
         @server.route("/bolt", [POST])
         def btn(req: Request):
-            led.fill((int(cfg["bolts"]["r"]), int(
-                cfg["bolts"]["g"]), int(cfg["bolts"]["b"])))
-            led.show()
             return Response(req, "OK")
 
         @server.route("/bar", [POST])
         def btn(req: Request):
-            led.fill((int(cfg["bars"]["r"]), int(
-                cfg["bars"]["g"]), int(cfg["bars"]["b"])))
-            led.show()
             return Response(req, "OK")
 
         @server.route("/bright", [POST])
         def btn(req: Request):
             rq_d = req.json()
-            led.brightness = float(rq_d["an"])
-            led.show()
             return Response(req, "OK")
 
         @server.route("/update-host-name", [POST])
@@ -390,7 +235,7 @@ if (web):
             global cfg
             rq_d = req.json()
             cfg["HOST_NAME"] = rq_d["text"]
-            files.write_json_file("/sd/cfg.json", cfg)
+            files.write_json_file(sd_loc + "cfg.json", cfg)
             mdns.hostname = cfg["HOST_NAME"]
             return Response(req, cfg["HOST_NAME"])
 
@@ -416,8 +261,7 @@ if (web):
                 cfg["light_string"] = rq_d["text"]
                 print("action: " +
                       rq_d["action"] + " data: " + cfg["light_string"])
-                files.write_json_file("/sd/cfg.json", cfg)
-                upd_l_str()
+                files.write_json_file(sd_loc + "cfg.json", cfg)
                 return Response(req, cfg["light_string"])
             if cfg["light_string"] == "":
                 cfg["light_string"] = rq_d["text"]
@@ -426,8 +270,7 @@ if (web):
                     "," + rq_d["text"]
             print("action: " + rq_d["action"] +
                   " data: " + cfg["light_string"])
-            files.write_json_file("/sd/cfg.json", cfg)
-            upd_l_str()
+            files.write_json_file(sd_loc + "cfg.json", cfg)
             return Response(req, cfg["light_string"])
 
         @server.route("/get-light-string", [POST])
@@ -465,32 +308,6 @@ if (web):
         def btn(req: Request):
             global cfg
             rq_d = req.json()
-            if rq_d["item"] == "bars":
-                cfg["bars"] = {"r": rq_d["r"],
-                               "g": rq_d["g"], "b": rq_d["b"]}
-                bi = []
-                bi.extend(bar_arr)
-                for i in bi:
-                    led[i] = (rq_d["r"],
-                              rq_d["g"], rq_d["b"])
-                    led.show()
-            elif rq_d["item"] == "nbolts":
-                    cfg["nbolts"] = {"r": rq_d["r"],
-                                     "g": rq_d["g"], "b": rq_d["b"]}
-                    bi = []
-                    bi.extend(nbolt_arr)
-                    for i in bi:
-                        led[i] = (rq_d["r"],
-                                  rq_d["g"], rq_d["b"])
-                        led.show()
-            elif rq_d["item"] == "variationBolt":
-                print(rq_d)
-                cfg["v"] = {"r1": rq_d["r"], "g1": rq_d["g"], "b1": rq_d["b"],
-                            "r2": cfg["v"]["r2"], "g2": cfg["v"]["g2"], "b2": cfg["v"]["b2"]}
-            elif rq_d["item"] == "variationBar":
-                cfg["v"] = {"r1": cfg["v"]["r1"], "g1": cfg["v"]["g1"], "b1": cfg["v"]
-                            ["b1"], "r2": rq_d["r"], "g2": rq_d["g"], "b2": rq_d["b"]}
-            files.write_json_file("/sd/cfg.json", cfg)
             return Response(req, "OK")
         
         @server.route("/get-local-ip", [POST])
@@ -540,6 +357,4 @@ try:
     asyncio.run(main())
 except KeyboardInterrupt:
     pass
-
-
 
