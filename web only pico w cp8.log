@@ -1,0 +1,246 @@
+Point Imports gc, files Available memory: 124160 bytes
+Point config setup Available memory: 118656 bytes
+Point config wifi imports Available memory: 118400 bytes
+Point config wifi imports Available memory: 118176 bytes
+Point config wifi imports Available memory: 94720 bytes
+Connecting to WiFi
+Using default ssid
+Point wifi connect Available memory: 94336 bytes
+IP is192.168.0.100
+Connected
+Point wifi server Available memory: 92656 bytes
+Point web server Available memory: 81104 bytes
+starting server...
+Started development server on http://192.168.0.100:80
+Listening on http://192.168.0.100:80
+Point Home page. Available memory: 55984 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 7264 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 72896 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 32464 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 80064 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 10400 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 338, in poll
+  File "adafruit_httpserver/response.py", line 103, in _send
+  File "adafruit_httpserver/response.py", line 95, in _send_headers
+  File "adafruit_httpserver/response.py", line 116, in _send_bytes
+OSError: [Errno 9] EBADF
+[Errno 9] EBADF
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 33360 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 19024 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 30000 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 38064 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 21712 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 43104 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 14880 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 338, in poll
+  File "adafruit_httpserver/response.py", line 248, in _send
+  File "adafruit_httpserver/response.py", line 116, in _send_bytes
+OSError: [Errno 9] EBADF
+[Errno 9] EBADF
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+Point Home page. Available memory: 41424 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 63376 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 83760 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 27312 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140
+Point Home page. Available memory: 81744 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140

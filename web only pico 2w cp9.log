@@ -1,0 +1,1086 @@
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 47ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 19ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 14ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 273104 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 84ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 73ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 48ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 24ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 33ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 12ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 297824 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 82ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 92ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 46ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 32ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 14ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 246032 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 82ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 64ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 18ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 34ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 14ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 20ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 262720 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 86ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 89ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 69ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 25ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 34ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 38ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 249216 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 111ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 83ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 46ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 25ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 270384 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 89ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 69ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 52ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 38ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 285328 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 89ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 71ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 42ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 12ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 259904 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 95ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 104ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 57ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 32ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 36ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 35ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 35ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 35ms
+Point Home page. Available memory: 277872 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 78ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 96ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 67ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 281280 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 88ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 86ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 62ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 20ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 240400 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 95ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 91ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 63ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 28ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 257536 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 90ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 93ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 47ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 24ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 21ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 15ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 21ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 33ms
+Point Home page. Available memory: 260832 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 91ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 72ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 47ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 32ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 34ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 13ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 238320 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 97ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 64ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 32ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 265312 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 87ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 92ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 65ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 35ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 36ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 33ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 14ms
+Point Home page. Available memory: 268944 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 99ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 101ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 66ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 16ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 43ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 32ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 32ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 235952 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 89ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 108ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 48ms
+Point Home page. Available memory: 228560 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 633ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 68ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 111ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 17ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 35ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 24ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 21ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 220880 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 98ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 93ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 91ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 34ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 35ms
+Point Home page. Available memory: 216064 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 100ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 65ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 253184 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 90ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 109ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 52ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 29ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 20ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 33ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 14ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 256672 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 282, in _send
+  File "adafruit_httpserver/response.py", line 120, in _send_headers
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 9] EBADF
+[Errno 9] EBADF
+Point Home page. Available memory: 252960 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 98ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 96ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 50ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 50ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 20ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 15ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 255568 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 112ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 91ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 53ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 17ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 242704 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 89ms
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 218096 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 97ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 95ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 69ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 21ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 37ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 230464 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 95ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 78ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 77ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 36ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 21ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 193056 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 92ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 80ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 71ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 25ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 25ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 20ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 32ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 233264 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 92ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 73ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 51ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 25ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 32ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 15ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 236176 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 91ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 70ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 46ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 236368 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 105ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 89ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 45ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 29ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 20ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 190032 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 99ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 87ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 45ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 14ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 21ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 236176 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 99ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 91ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 68ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 26ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 21ms
+Point Home page. Available memory: 233936 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 97ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 76ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 66ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 14ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 33ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 226032 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 91ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 79ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 76ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 34ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 38ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 187952 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 96ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 69ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 13ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 228000 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 95ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 80ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 50ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 28ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 13ms
+Point Home page. Available memory: 213280 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 80ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 16ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 95ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 58ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 25ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 179488 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 86ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 54ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 17ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 24ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 21ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 20ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 219840 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 97ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 50ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 90ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 19ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 37ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 174656 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 88ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 66ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 34ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 24ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 25ms
+Point Home page. Available memory: 219808 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 98ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 86ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 93ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 17ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 14ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 175696 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 97ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 67ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 26ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 36ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 215712 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 108ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 92ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 58ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 25ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 20ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 168384 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 96ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 86ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 45ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 37ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 26ms
+Point Home page. Available memory: 215888 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 94ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 65ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 16ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 16ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 19ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+Point Home page. Available memory: 193728 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 86ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 34ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 91ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 62ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 13ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+Point Home page. Available memory: 181456 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 84ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 14ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 97ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 56ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 29ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 14ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 164176 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 96ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 86ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 47ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 29ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 20ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 25ms
+Point Home page. Available memory: 154624 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 89ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 68ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 13ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 21ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 25ms
+Point Home page. Available memory: 199360 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 92ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 91ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 64ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 15ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 16ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 20ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 13ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 154864 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 97ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 53ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 76ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 24ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 34ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 15ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 20ms
+Point Home page. Available memory: 173168 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 303ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 128, in _send
+  File "adafruit_httpserver/response.py", line 120, in _send_headers
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+BrokenPipeError: 32
+32
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 34ms
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+BrokenPipeError: 32
+32
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 189648 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 95ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 84ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 58ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 28ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 37ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 187088 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 84ms
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 9] EBADF
+[Errno 9] EBADF
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 151376 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 170832 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 146480 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 176592 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 154288 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 131984 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 163056 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 136656 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 161216 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 138912 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 165632 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 145376 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 172096 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 149792 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 175056 bytes
+Traceback (most recent call last):
+  File "adafruit_httpserver/server.py", line 425, in poll
+  File "adafruit_httpserver/response.py", line 287, in _send
+  File "adafruit_httpserver/response.py", line 142, in _send_bytes
+OSError: [Errno 116] ETIMEDOUT
+[Errno 116] ETIMEDOUT
+Point Home page. Available memory: 152752 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 109ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 88ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 52ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 26ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 33ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 36ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 34ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 36ms
+Point Home page. Available memory: 167968 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 975ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 105ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 61ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 35ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 178832 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 81ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 96ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 68ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 16ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 15ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 20ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 178832 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 79ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 99ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 65ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 26ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 13ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 150832 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 90ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 101ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 58ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 16ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 35ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 13ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 161248 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 84ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 74ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 46ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 22ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 25ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 20ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 38ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 145456 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 101ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 88ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 46ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 25ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 136608 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 105ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 96ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 63ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 26ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 34ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 13ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 152736 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 82ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 56ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 34ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 34ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 37ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 34ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 36ms
+Point Home page. Available memory: 178832 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 87ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 96ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 66ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 16ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 32ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 13ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 21ms
+Point Home page. Available memory: 144336 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 87ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 90ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 57ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 34ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 35ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 37ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 157888 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 79ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 101ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 49ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 37ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 34ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 36ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 25ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 21ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 33ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 14ms
+Point Home page. Available memory: 135936 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 112ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 88ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 65ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 27ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 33ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 14ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 151280 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 93ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 83ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 58ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 33ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 33ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 37ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 35ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 36ms
+Point Home page. Available memory: 134480 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 121ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 76ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 68ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 15ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 33ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 15ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 20ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 23ms
+Point Home page. Available memory: 179216 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 85ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 95ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 45ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 28ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 23ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 36ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 22ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 178848 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 86ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 83ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 45ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 21ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 23ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 23ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 35ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 35ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
+Point Home page. Available memory: 149264 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 92ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 83ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 48ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 44ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 35ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 22ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 25ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 21ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 23ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 35ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 39ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 22ms
+Point Home page. Available memory: 158560 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 89ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 94ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 47ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 25ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 24ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 32ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 16ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 20ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 24ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 23ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 33ms
+Point Home page. Available memory: 142432 bytes
+192.168.0.101 -- "GET /" 483 -- "200 OK" 42010 -- 88ms
+192.168.0.101 -- "GET /mui.min.css" 364 -- "200 OK" 44541 -- 87ms
+192.168.0.101 -- "GET /mui.min.js" 348 -- "200 OK" 19613 -- 64ms
+192.168.0.101 -- "POST /get-host-name" 444 -- "200 OK" 102 -- 31ms
+192.168.0.101 -- "POST /get-local-ip" 443 -- "200 OK" 97 -- 22ms
+192.168.0.101 -- "POST /get-volume" 441 -- "200 OK" 86 -- 21ms
+192.168.0.101 -- "POST /get-built-in-sound-tracks" 456 -- "200 OK" 116 -- 24ms
+192.168.0.101 -- "POST /get-customers-sound-tracks" 457 -- "200 OK" 152 -- 34ms
+192.168.0.101 -- "POST /get-light-string" 447 -- "200 OK" 165 -- 36ms
+192.168.0.101 -- "POST /get-bolt-colors" 446 -- "200 OK" 112 -- 24ms
+192.168.0.101 -- "POST /get-bar-colors" 445 -- "200 OK" 112 -- 22ms
+192.168.0.101 -- "POST /get-color-variation" 450 -- "200 OK" 140 -- 24ms
